@@ -9,7 +9,6 @@ This project is a console-based ATM Transaction Simulation developed using C pro
 - Balance enquiry
 - Mini statement
 - Transaction history with date and time
-- File handling for permanent data storage
 
 ## Technologies Used
 - C Programming
@@ -23,6 +22,5 @@ This project is a console-based ATM Transaction Simulation developed using C pro
 3. Follow the menu-driven instructions
 
 ## Future Enhancement
-- Implement graphical user interface (GUI)
-- Add database support
-- Improve security features
+-Implement graphical user interface(GUI)
+-Improve security features
